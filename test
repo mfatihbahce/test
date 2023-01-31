@@ -1,0 +1,48 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/mfatihbahce/test/blob/main/test\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Yeni Bölüm"
+      ],
+      "metadata": {
+        "id": "pEsU7nnD6NRU"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "python_txt = open(\"python.txt\", \"w\")"
+      ],
+      "metadata": {
+        "id": "K6YlMNc26Nv8"
+      },
+      "execution_count": 5,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Colaboratory'ye Hoş Geldiniz",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
